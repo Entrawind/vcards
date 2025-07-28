@@ -6,7 +6,7 @@ ORG:Entrawind GmbH;Entrawind West
 TITLE:HSE Advisor / SiGeKo
 TEL;WORK;VOICE:+49 4124 5033999
 TEL;CELL;VOICE:+49 162 1912361
-ADR;WORK;PREF;CHARSET=Windows-1252:;;Hedwig-Augustin-Straße 27;Glückstadt;Schleswig-Holstein;25348;Germany
+ADR;WORK;PREF;CHARSET=Windows-1252:;;Hedwig-Augustin-Stra�e 27;Gl�ckstadt;Schleswig-Holstein;25348;Germany
 LABEL;WORK;PREF;CHARSET=Windows-1252;ENCODING=QUOTED-PRINTABLE:Hedwig-Augustin-Stra=DFe 27=0D=0A=
 =0D=0A=
 25348  Gl=FCckstadt  Schleswig-Holstein
@@ -405,6 +405,6 @@ PHOTO;TYPE=JPEG;ENCODING=BASE64:
  bs4rwnxRBBb6xdRQQpGiyEBUUADn0FbYjDewSad7k4fF/WG01axzW6b/AJ5t+VFbexP7o/Ki
  uax12P/Z
 
-X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="tleft" area="32" use="photo"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="org" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="title" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="dept" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="telwork" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">GeschÃ¤ftlich</label></fld><fld xmlns="" prop="telcell" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">Mobiltelefon</label></fld><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="addrwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="webwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
+X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="tleft" area="32" use="photo"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="org" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="title" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="dept" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="telwork" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">Geschäftlich</label></fld><fld xmlns="" prop="telcell" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">Mobiltelefon</label></fld><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="addrwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="webwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
 REV:20250728T132703Z
 END:VCARD
